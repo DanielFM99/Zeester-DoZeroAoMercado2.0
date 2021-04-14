@@ -37,7 +37,6 @@ function Rectangle(a, b) {
     return obj
 }
 
-
 function main() {
     const a = +(readLine());
     const b = +(readLine());

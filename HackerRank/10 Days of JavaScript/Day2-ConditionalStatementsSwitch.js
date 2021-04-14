@@ -53,7 +53,6 @@ function getLetter(s) {
     return letter;
 }
 
-
 function main() {
     const s = readLine();
 

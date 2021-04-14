@@ -40,7 +40,6 @@ function getCount(objects) {
     return count
 }
 
-
 function main() {
     const n = +(readLine());
     let objects = [];
