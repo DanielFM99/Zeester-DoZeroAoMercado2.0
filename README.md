@@ -8,6 +8,5 @@
 
 ## Lista de exercícios Curso Web Moderno Completo (os exercícios estão separados por pasta no repositório):
 
--
--
--
+- Secao 5 -  Fundamentos, Estruturas de Controle e Funcoes
+- Secao 8 - Lista de Exercicios
