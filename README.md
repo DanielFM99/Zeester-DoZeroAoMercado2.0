@@ -1,5 +1,3 @@
-# Zeester - Do Zero ao Mercado 2.0
-
 ## Lista de exercícios do HackerRank (os exercícios estão separados por pasta no repositório):
 
 - 10 Days of JavaScript
